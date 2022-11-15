@@ -21,5 +21,23 @@ namespace capavista
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void navegador1_Load(object sender, EventArgs e)
+        {
+            NavegadorVista.Navegador.idApp = "8003";
+            TextBox[] Grupotextbox = { textIDCliente, textNombreCliente,
+                textNitCliente};
+            TextBox[] Idtextbox = { textIDCliente };
+            navegador1.textbox = Grupotextbox;
+            navegador1.tabla = dgvCliente;
+            navegador1.textboxi = Idtextbox;
+            navegador1.actual = this;
+            navegador1.cargar(dgvCliente, Grupotextbox, "colchoneria");
+        }
     }
 }
