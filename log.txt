@@ -1,0 +1,16 @@
+git log --oneline
+efd1d27 (HEAD -> RamaMantenimiento9959191471, origin/RamaMantenimiento9959191471) mantenimientos
+2148594 (origin/main, origin/HEAD, main, RamaMantenimiento) Merge pull request #5 from Diana-Victores/icono9959191471
+7a6ee86 (origin/icono9959191471, icono9959191471) icono
+503b248 icono
+33c926d Merge pull request #4 from Diana-Victores/RamaContenedor9959191471
+2e0a6b0 (origin/RamaContenedor9959191471, RamaContenedor9959191471) Contenedor
+3658e1a Merge pull request #3 from Diana-Victores/componentes9959191471
+cf765d7 (origin/componentes9959191471, componentes9959191471) corrijiendo ejecucion
+6f34910 Merge pull request #2 from Diana-Victores/componentes9959191471
+53bdab8 Subiendo Componentes
+8a8b35e Merge pull request #1 from Diana-Victores/RamaDiagramas9959191471
+8ce787f (origin/RamaDiagramas9959191471, RamaDiagramas9959191471) diagramas hijo, contexto y cero
+f7cbdb3 subiendo diagramas y script
+c6b11e6 Initial commit
+
