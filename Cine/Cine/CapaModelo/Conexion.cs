@@ -12,7 +12,7 @@ namespace CapaModelo
         public OdbcConnection conexion()
         {
             //creacion de la conexion via ODBC
-            OdbcConnection conn = new OdbcConnection("Dsn=colchoneria");
+            OdbcConnection conn = new OdbcConnection("Dsn=prototipoef9959191471");
 
             try
             {

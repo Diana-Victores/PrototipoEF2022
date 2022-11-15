@@ -32,7 +32,7 @@ namespace capavista
             navegador1.tabla = dgvoeliculas;
             navegador1.textboxi = Idtextbox;
             navegador1.actual = this;
-            navegador1.cargar(dgvoeliculas, Grupotextbox, "colchoneria");
+            navegador1.cargar(dgvoeliculas, Grupotextbox, "colchoneriaa");
         }
     }
 }

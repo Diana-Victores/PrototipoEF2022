@@ -26,29 +26,29 @@ namespace capavista
             cnc.getAccesoApp (8002,apps[0]);
             //Mantenimiento Encabezado Cuentas
             cnc.getAccesoApp(8003, apps[1]);
-            //Mantenimiento tipo cuenta
-            cnc.getAccesoApp(8004, apps[2]);
-            //Mantenimiento Cuentas
-            cnc.getAccesoApp(8005, apps[3]);
-            //Mantenimiento Tipo Poliza
-            cnc.getAccesoApp(8006, apps[4]);
-            // Mantenimiento Detalle Poliza
-            cnc.getAccesoApp(8007, apps[5]);
-            // Mantenimiento Activos Fijos
-            cnc.getAccesoApp(8008, apps[6]);
-            // Moneda
-            cnc.getAccesoApp(8009, apps[7]);
+           // //Mantenimiento tipo cuenta
+           // cnc.getAccesoApp(8004, apps[2]);
+           // //Mantenimiento Cuentas
+           //// cnc.getAccesoApp(8005, apps[3]);
+           // //Mantenimiento Tipo Poliza
+           // cnc.getAccesoApp(8006, apps[4]);
+           // // Mantenimiento Detalle Poliza
+           // cnc.getAccesoApp(8007, apps[5]);
+           // // Mantenimiento Activos Fijos
+           // cnc.getAccesoApp(8008, apps[6]);
+           // // Moneda
+           // cnc.getAccesoApp(8009, apps[7]);
 
             // ----------- Procesos ---------
 
-            cnc.getAccesoApp(8031, apps[8]);
-            // Revision Presupuestos
-            cnc.getAccesoApp(8032, apps[9]);
-            // Cierre General
-            cnc.getAccesoApp(8033, apps[10]);
-            // Cierre Por Cuentas
-            cnc.getAccesoApp(8034, apps[11]);
-            // Estados Financieros
+            //cnc.getAccesoApp(8031, apps[8]);
+            //// Revision Presupuestos
+            //cnc.getAccesoApp(8032, apps[9]);
+            //// Cierre General
+            //cnc.getAccesoApp(8033, apps[10]);
+            //// Cierre Por Cuentas
+            //cnc.getAccesoApp(8034, apps[11]);
+            //// Estados Financieros
 
 
         }

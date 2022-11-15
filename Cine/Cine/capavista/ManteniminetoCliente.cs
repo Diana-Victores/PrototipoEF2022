@@ -37,7 +37,7 @@ namespace capavista
             navegador1.tabla = dgvCliente;
             navegador1.textboxi = Idtextbox;
             navegador1.actual = this;
-            navegador1.cargar(dgvCliente, Grupotextbox, "colchoneria");
+            navegador1.cargar(dgvCliente, Grupotextbox, "colchoneriaa");
         }
     }
 }
