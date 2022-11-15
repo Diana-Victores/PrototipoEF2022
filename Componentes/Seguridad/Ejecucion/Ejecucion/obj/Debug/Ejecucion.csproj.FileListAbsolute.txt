@@ -1,0 +1,16 @@
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe.config
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.exe
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Ejecucion.pdb
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.dll
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.dll
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Vista_Seguridad.pdb
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Seguridad_Controlador.pdb
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.Properties.Resources.resources
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.GenerateResource.cache
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.csproj.CopyComplete
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.exe
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Seguridad\Ejecucion\Ejecucion\obj\Debug\Ejecucion.pdb

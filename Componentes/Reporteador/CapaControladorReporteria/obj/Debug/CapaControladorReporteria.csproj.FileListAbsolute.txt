@@ -1,0 +1,15 @@
+C:\Users\Diana\Desktop\12 nov ContabilidadFinal\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.dll
+C:\Users\Diana\Desktop\12 nov ContabilidadFinal\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\Diana\Desktop\12 nov ContabilidadFinal\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\12 nov ContabilidadFinal\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\12 nov ContabilidadFinal\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.dll
+C:\Users\Diana\Desktop\12 nov ContabilidadFinal\proyectofinalasis222022\Codigo\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.pdb
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.dll
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaControladorReporteria.pdb
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.dll
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Reporteador\CapaControladorReporteria\bin\Debug\CapaModeloReporteria.pdb
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.AssemblyReference.cache
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.csproj.CopyComplete
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.dll
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Componentes\Reporteador\CapaControladorReporteria\obj\Debug\CapaControladorReporteria.pdb

@@ -1,0 +1,5 @@
+C:\Users\Diana\Desktop\12 nov ContabilidadFinal\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.dll
+C:\Users\Diana\Desktop\12 nov ContabilidadFinal\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\bin\Debug\Capa_Modelo.pdb
+C:\Users\Diana\Desktop\12 nov ContabilidadFinal\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_ModeloConsultas.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\12 nov ContabilidadFinal\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.dll
+C:\Users\Diana\Desktop\12 nov ContabilidadFinal\proyectofinalasis222022\Codigo\Componentes\Consultas\Capa_Modelo\obj\Debug\Capa_Modelo.pdb
