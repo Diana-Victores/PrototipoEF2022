@@ -1,4 +1,5 @@
-﻿using System;
+﻿using capavista;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,8 +8,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using capavista;
 
-namespace Capa_VistaContabilidad
+namespace capavista
 {
     public partial class Nuevo_MDI : Form
     {
@@ -151,11 +153,11 @@ namespace Capa_VistaContabilidad
 
         private void btnClientes_Click(object sender, EventArgs e)
         {
-           /* CompraBoleto presp = new CompraBoleto();
+           CompraBoleto presp = new CompraBoleto();
             presp.MdiParent = this;
             presp.StartPosition = FormStartPosition.CenterScreen;
             presp.Show();
-            hideSubMenu();*/
+            hideSubMenu();
         }
 
         private void btnContactoClientes_Click(object sender, EventArgs e)
@@ -343,20 +345,20 @@ namespace Capa_VistaContabilidad
 
         private void btn_mantPC_Click(object sender, EventArgs e)
         {
-           /* MantenimientoPeliculas mantTctas = new MantenimientoPeliculas();
+            MantenimientoPeliculas mantTctas = new MantenimientoPeliculas();
             mantTctas.MdiParent = this;
             mantTctas.StartPosition = FormStartPosition.CenterScreen;
             mantTctas.Show();
-            hideSubMenu();*/
+            hideSubMenu();
         }
 
         private void button2_Click_1(object sender, EventArgs e)
         {
-         /*   ManteniminetoCliente mantclas = new ManteniminetoCliente();
+            ManteniminetoCliente mantclas = new ManteniminetoCliente();
             mantclas.MdiParent = this;
             mantclas.StartPosition = FormStartPosition.CenterScreen;
             mantclas.Show();
-            hideSubMenu();*/
+            hideSubMenu();
         }
 
         private void button5_Click(object sender, EventArgs e)

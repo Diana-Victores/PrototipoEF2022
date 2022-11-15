@@ -1,5 +1,5 @@
 ﻿
-namespace Capa_VistaContabilidad
+namespace capavista
 {
     partial class Nuevo_MDI
     {

@@ -68,7 +68,7 @@ C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\capavista\bin\D
 C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\capavista\obj\Debug\capavista.CompraBoleto.resources
 C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\capavista\obj\Debug\capavista.MantenimientoPeliculas.resources
 C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\capavista\obj\Debug\capavista.ManteniminetoCliente.resources
-C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\capavista\obj\Debug\Capa_VistaContabilidad.Nuevo_MDI.resources
 C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\capavista\obj\Debug\capavista.Properties.Resources.resources
 C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\capavista\obj\Debug\capavista.csproj.GenerateResource.cache
 C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\capavista\obj\Debug\capavista.csproj.CopyComplete
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\capavista\obj\Debug\capavista.Nuevo_MDI.resources
