@@ -1,0 +1,5 @@
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\CapaModelo\bin\Debug\CapaModelo.dll
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\CapaModelo\bin\Debug\CapaModelo.pdb
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\CapaModelo\obj\Debug\CapaModelo.dll
+C:\Users\Diana\Desktop\PrototipoEF2022\PrototipoEF2022\Cine\Cine\CapaModelo\obj\Debug\CapaModelo.pdb
